@@ -1,4 +1,4 @@
-# H1 Frequentist vs Bayesian probability
+# Frequentist vs Bayesian probability
 
 The overarching goal of both approaches is the same: to make a statement about the population (ALL data points) based on a SAMPLE of data points, and describe our UNCERTAINTY about that statement.
 
